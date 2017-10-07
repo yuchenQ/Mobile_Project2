@@ -1,9 +1,11 @@
-# Mobile_Projec2
+# Mobile_Project2
 
 [Author]
+
 Bing Xie(741012), Yuchen Qiao(748663), Da Huo(791094)
 
 [Features]
+
 1. A welcome page and several guide pages to briefly introduce this application;
 2. Users can register an account and login;
 3. This app can track walking and running route on map, and it can show the current distance
