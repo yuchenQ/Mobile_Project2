@@ -13,3 +13,7 @@ Bing Xie(741012), Yuchen Qiao(748663), Da Huo(791094)
 6. There is a data visualization to show some data per week;
 7. Elder can click the "EMERGENCY" button to inform his/her relatives for seeking help;
 8. This app also has automatic alarm mechanism to keep elder users being in safe;
+
+[Link of introduction]
+
+https://www.youtube.com/watch?v=r_BEnq9yEy8&feature=youtu.be
